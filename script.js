@@ -196,7 +196,7 @@ const perfumeData = [
             "fondo": "Haba tonka, cacao, ámbar"
         },
         "genero": "Masculino",
-        "imagen_url": "https://frutafrescaco.vtexassets.com/arquivos/ids/68925913-1600-auto?v=638887117472670000&width=1600&height=auto&aspect=true"
+        "imagen_url": "https://veronnaperfumeria.com/cdn/shop/products/image_1665b8a0-c275-47bc-a4b2-6bcf8531237d_750x.jpg?v=1655394718"
     },
     {
         "nombre_comercial": "ONE MILLION LUCKY",
